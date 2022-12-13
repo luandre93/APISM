@@ -1,0 +1,23 @@
+{
+  "name": "apism",
+  "version": "1.0.0",
+  "description": "NodeJS API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luandre93/APISM.git"
+  },
+  "author": "Luandre Bernardi de Andrade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luandre93/APISM/issues"
+  },
+  "homepage": "https://github.com/luandre93/APISM#readme",
+  "devDependencies": {
+    "@types/node": "^18.11.15",
+    "typescript": "^4.9.4"
+  }
+}
